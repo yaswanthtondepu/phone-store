@@ -22,7 +22,7 @@ const Navbar = () => {
       </ul>
 
       <Link to="/cart" className='ms-auto'>
-        <ButtonContainer>
+        <ButtonContainer whiteCart>
           <span className="me-2">
             <i className="fas fa-cart-plus"></i>
           </span>
